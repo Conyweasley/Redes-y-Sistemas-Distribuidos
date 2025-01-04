@@ -8,7 +8,7 @@ El laboratorio consiste en diseñar una API con Flask para gestionar una base de
 * Evaluación: Probar funcionalidades con scripts y herramientas como Postman, enfocándose en eficiencia, escalabilidad y seguridad.
 
 El laboratorio fomenta habilidades en diseño de APIs y programación con Python.
-Vea con más detalles: [Aquí](Laboratorio%201:%20Desarrollo%20de%20una%20API/2024%20Lab1_enunciado.pdf)
+Vea con más detalles: [Aquí](Laboratorio%201%3A%20Desarrollo%20de%20una%20API/2024%20Lab1_enunciado.pdf)
 
 ## Descripción del Laboratorio 2: Aplicación Servidor
 Este laboratorio se centra en la implementación de un servidor de archivos utilizando sockets en Python, empleando un protocolo casero llamado HFTP (Home-made File Transfer Protocol). Se organiza en las siguientes etapas:
@@ -23,6 +23,8 @@ Probar casos exitosos y no exitosos con scripts y realizar pruebas entre diferen
 Implementar soporte para múltiples clientes simultáneos y documentar los resultados.
 
 Este laboratorio refuerza conceptos de programación cliente/servidor, diseño de protocolos personalizados y manejo eficiente de conexiones en red.
+
+Vea con más detalles: [Aquí](Laboratorio%202%3A%20Aplicaci%C3%B3n%20Servidor/2024%20Lab2_enunciado.pdf)
 
 ## Descripción del Laboratorio 3: Transporte
 Este laboratorio utiliza Omnet++ para analizar y diseñar modelos de red, enfocándose en el control de congestión y flujo. Se organiza en dos tareas principales:
@@ -39,6 +41,8 @@ Realizar simulaciones y comparar los resultados con y sin control de congestión
 
 El laboratorio promueve habilidades en simulación de redes, análisis de tráfico y diseño de algoritmos eficientes para redes congestionadas.
 
+Vea con más detalles: [Aquí](Laboratorio%203%3A%20Transporte/2024%20Lab3_enunciado.pdf)
+
 ## Descripción del laboratorio 4: Red
 
 Este laboratorio se centra en el análisis y diseño de estrategias de enrutamiento en redes simuladas con Omnet++. Los objetivos principales son:
@@ -53,3 +57,6 @@ Caso 2: Explorar el comportamiento cuando todos los nodos generan tráfico hacia
 * Tarea opcional (estrella): Diseñar una estrategia de enrutamiento adaptable a cualquier topología, incluyendo nodos con múltiples interfaces o interfaces inactivas.
 
 El laboratorio busca desarrollar habilidades en el diseño de protocolos de red y evaluación de rendimiento mediante simulación.
+
+Vea con más detalles: [Aquí](Laboratorio%204%3A%20Red/2024%20Lab4_enunciado.pdf)
+
