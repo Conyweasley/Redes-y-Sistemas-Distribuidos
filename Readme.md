@@ -8,6 +8,7 @@ El laboratorio consiste en diseñar una API con Flask para gestionar una base de
 * Evaluación: Probar funcionalidades con scripts y herramientas como Postman, enfocándose en eficiencia, escalabilidad y seguridad.
 
 El laboratorio fomenta habilidades en diseño de APIs y programación con Python.
+Vea con más detalles: [Aquí](Laboratorio%201:%20Desarrollo%20de%20una%20API/2024%20Lab1_enunciado.pdf)
 
 ## Descripción del Laboratorio 2: Aplicación Servidor
 Este laboratorio se centra en la implementación de un servidor de archivos utilizando sockets en Python, empleando un protocolo casero llamado HFTP (Home-made File Transfer Protocol). Se organiza en las siguientes etapas:
