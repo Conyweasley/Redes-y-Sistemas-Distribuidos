@@ -1,0 +1,8 @@
+results/*
+out/*
+lab4-kickstarter
+Makefile
+*.anf
+.qtenvrc
+.settings/language.settings.xml
+.vscode/
